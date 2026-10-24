@@ -314,15 +314,6 @@ Distribué sous licence MIT. Voir LICENSE pour plus d'informations.
 Fait avec ❤️ et beaucoup de ☕
 
 </div> ```
-✅ Ce que tu dois encore faire avant de publier
-Créer le fichier LICENSE à la racine (MIT standard) — je peux te le fournir si tu veux.
-
-Remplacer TON_PSEUDO dans l'URL de clonage par ton nom GitHub.
-
-Vérifier ton Dockerfile : il pointe actuellement vers venicebot.py → doit être crinsa.py.
-
-Ajouter un .gitignore — voici le minimum recommandé :
-
 gitignore
 # Python
 __pycache__/
