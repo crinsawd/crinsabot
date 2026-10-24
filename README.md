@@ -346,15 +346,6 @@ data/
 # OS
 .DS_Store
 Thumbs.db
-Éventuellement ajouter une capture d'écran du panneau .config ou du .help en haut du README (entre la bannière et le sommaire) — ça augmente beaucoup l'attractivité d'un repo.
-
-Veux-tu que je te fournisse aussi :
-
-le fichier LICENSE MIT prêt à copier,
-
-un .gitignore complet adapté,
-
-ou une version anglaise du README (README.en.md) pour toucher un public international ?
 
 
 
